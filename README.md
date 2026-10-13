@@ -89,19 +89,6 @@ Plataforma para estudiar todo el ciclo de grado medio de **Sistemas Microinform�
 
 ---
 
-## Estadísticas de GitHub
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NormalGuy749&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NormalGuy749&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados"/>
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=NormalGuy749&theme=tokyonight&hide_border=true" alt="Racha de contribuciones"/>
-</p>
-
----
-
 ## Contacto
 
 | | |
